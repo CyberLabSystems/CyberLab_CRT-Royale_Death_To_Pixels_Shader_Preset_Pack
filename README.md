@@ -1,7 +1,6 @@
 # CyberLab_CRT-Royale_Death_To_Pixels_Shader_Preset_Pack
-If you ever wished for a CyberLab Death To Pixels Easymode which had the Reflective Bezel turned off and filled the screen instead, that could perform better on lower end hardware and didn't have so many presets and folders but still gave an excellent quality CRT-Like experience, then perhaps this is exactly what you've been waiting for!
 
-Enjoy!
+If you ever wished for a CyberLab Death To Pixels Easymode which had the Reflective Bezel turned off and filled the screen instead, that could perform better on lower end hardware and didn't have so many presets and folders but still gave an excellent quality CRT-Like experience, then perhaps this is exactly what you've been waiting for!
 
 
 Installation:
@@ -60,6 +59,5 @@ Also for the fact that these presets originally used his as a starting point.
 Special thanks also to all the other shader creators including TroggleMonkey and hunterk who made this all possible.
 
 
-If you ever wished for a CyberLab Death To Pixels Easymode which had the Reflective Bezel turned off and filled the screen instead, that could perform better on lower end hardware and didn't have so many presets and folders but still gave an excellent quality CRT-Like experience, then perhaps this is exactly what you've been waiting for!
 
 Enjoy! 
