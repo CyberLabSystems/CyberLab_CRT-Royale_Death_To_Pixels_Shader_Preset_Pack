@@ -18,12 +18,11 @@ Recommended:
 
 Settings-->Video-->Scaling
 
-	Integer Scale - On
-	Integer Scale Overscale - On
+	Integer Scale - Off
 	Aspect Ratio - 4:3
 	Crop Overscan (Restart Required) - On
 
-Optional:
+Optional but recommended:
 
 Quick Menu-->Shaders-->Save-->Save Core <or Game> Preset
 
@@ -33,7 +32,7 @@ Usage:
 Settings-->Video-->Video Filter--><choose video filter preset>.filt
 
 
-Optional:
+Optional but recommended:
 
 Quick Menu-->Overrides-->Save Core Override
 
