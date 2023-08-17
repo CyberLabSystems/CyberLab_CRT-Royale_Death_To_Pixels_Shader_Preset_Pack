@@ -26,7 +26,7 @@ For SNES and most other cores:
 
 For NES Cores (or in case of uneven scanlines):
 
-Integer Scale - On
+	Integer Scale - On
 	Integer Scale Overscale - On
 	Aspect Ratio - 4:3
 	Crop Overscan (Restart Required) - On
