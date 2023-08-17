@@ -18,9 +18,18 @@ Recommended:
 
 Settings-->Video-->Scaling
 
+For SNES and most other cores:
+
 	Integer Scale - Off
 	Aspect Ratio - 4:3
 	Crop Overscan (Restart Required) - On
+
+For NES Cores (or in case of uneven scanlines):
+
+Integer Scale - On
+	Integer Scale Overscale - On
+	Aspect Ratio - 4:3
+	Crop Overscan (Restart Required) - On On
 
 Optional but recommended:
 
