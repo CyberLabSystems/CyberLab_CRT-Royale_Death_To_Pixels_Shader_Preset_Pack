@@ -48,9 +48,7 @@ Quick Menu-->Overrides-->Save Core Override
 
 
 
-Feel free to go into the Shader Parameters and toggle the LUT Selector setting between 0 and 1. 1 gives a slightly warmer and more vivid appearance to the image while 0 has a slightly cooler and neutral tone.
-
-Also, for NTSC Effects, like Blending of dithering and transparencies feel free to download my CyberLab Custom Blargg NTSC Video Filter Presets or use the ones that are already included in the Video Filters Menu or the Core Options of several Cores.
+For NTSC Effects, like Blending of dithering and transparencies feel free to download my CyberLab Custom Blargg NTSC Video Filter Presets or use the ones that are already included in the Video Filters Menu or the Core Options of several Cores.
 
 For my Turbo Duo presets my included "Blargg_NTSC_Turbo_Duo_SNES_RGB_CyberLab_Special_Edition_III.filt" video filter preset might be a good one to start with.
 
