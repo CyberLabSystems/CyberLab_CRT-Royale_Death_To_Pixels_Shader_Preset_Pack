@@ -24,7 +24,7 @@ For SNES and most other cores:
 	Aspect Ratio - 4:3
 	Crop Overscan (Restart Required) - On
 
-For NES Cores (or in case of uneven scanlines):
+For NES and Saturn Cores (or in case of uneven scanlines):
 
 	Integer Scale - On
 	Integer Scale Overscale - On
