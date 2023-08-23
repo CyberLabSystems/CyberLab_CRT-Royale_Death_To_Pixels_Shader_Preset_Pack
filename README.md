@@ -54,6 +54,7 @@ For my Turbo Duo presets my included "Blargg_NTSC_Turbo_Duo_SNES_RGB_CyberLab_Sp
 
 While for my Sega Genesis presets my included "Blargg_NTSC_Genesis_S-Video_CyberLab_Special_Edition_III.filt" or Blargg_NTSC_Genesis_Bad_Composite_CyberLab_Special_Edition_III.filt video filter preset might be a good starting points.
 
+Note if there is no corresponding Core or CyberLab Blargg video filter preset recommendation for that system, no recommendation exists.
 
 1440p users can probably try the Fine presets. They might work. Otherwise just play around with the "Mask - Triad Size Desired" Shader Parameter.
 
