@@ -31,7 +31,22 @@ For NES and Saturn Cores (or in case of uneven scanlines):
 	Aspect Ratio - 4:3
 	Crop Overscan (Restart Required) - On
 
-Optional but recommended:
+For vertical games either rotate your display or:
+
+	Integer Scale - Off
+	Aspect Ratio - 3:4
+	Crop Overscan (Restart Required) - On
+
+Settings-->Video-->Output
+
+	Video Rotation - 90 deg
+
+
+For vertical games on a horizontally oriented (non-rotated/landscape) display Arcade Super Fine or Arcade Ultra Fine shader presets are recommended.
+
+
+
+Optional:
 
 Quick Menu-->Shaders-->Save-->Save Core <or Game> Preset
 
@@ -41,10 +56,9 @@ Usage:
 Settings-->Video-->Video Filter--><choose video filter preset>.filt
 
 
-Optional but recommended:
+Optional:
 
 Quick Menu-->Overrides-->Save Core Override
-
 
 
 
@@ -56,9 +70,10 @@ While for my Sega Genesis presets my included "Blargg_NTSC_Genesis_S-Video_Cyber
 
 Note if there is no corresponding Core or CyberLab Blargg video filter preset recommendation for that system, no recommendation exists.
 
+
 1440p users can probably try the Fine presets. They might work. Otherwise just play around with the "Mask - Triad Size Desired" Shader Parameter.
 
-1080p users can probably set the "Mask - Triad Size Desired" Shader Parameter to 3.00. Otherwise just play around with it until it looks good to you.
+1080p users can probably set the "Mask - Triad Size Desired" Shader Parameter to 3.00. Otherwise just play around with it until it looks good to you or just use the new 1080p presets which are now available!
 
 
 I doubt I would have made these presets if it weren't for the postings and comments of Hyllian in the "Please show off what CRT shaders can do!" Libretro Forums thread so he deserves a Special thanks.
